@@ -20,7 +20,7 @@ To analyze sales and revenue performance using Excel dashboards.
 
 ## Dashboard Preview
 
-(Add screenshot here)
+![Dashboard](dashboard_screenshot.png)
 
 ## Key Insights
 - Technology category generated the highest sales.
